@@ -1,0 +1,76 @@
+body{
+    background: #eceaea;
+    margin: 0;
+}
+nav {
+     background-color: #f4f4f4;
+  display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.center-me {
+    width: 500px;
+    margin: 0 auto;
+   
+}
+
+
+
+.contenedor{
+    width: 500px;
+    padding: 1% 0px;;
+    background: white;
+    margin: 50px auto;
+}
+
+.header{
+    height: 50px;
+}
+
+.iconos{
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.usuario{
+    float: left;
+}
+
+.menu{
+    width: 5%;
+    float: right;
+    margin-right: 1%
+}
+
+.logo{
+    width: 90%;
+    float: left;
+}
+.logo p {
+    margin: 0px;
+}
+
+.logo .iconos{
+    float: left;
+    margin: 0px 2%;
+}
+
+.imagen{
+    max-width: 500px;
+   margin-bottom: 15px;
+}
+
+.botones{
+        margin: 2%;
+}
+
+.botones .iconos:nth-child(4){
+    float: right;
+    
+}
+
+.texto{
+    margin: 2%;
+
+}
